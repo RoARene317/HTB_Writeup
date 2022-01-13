@@ -6,7 +6,7 @@ In this case I am going to use nmap to scan open targets with the commmands
 > nmap -sV -O -p- <IP Targets> \
 >> -sV = scan services\
 >> -O = Scan OS version\
->> -p = Scan ports range , when - is entered , the port ranging from 0 to 65500\
+>> -p = Scan ports range , when - is entered , the port ranging from 0 to 65500
 > 
 After that the results shown like picture below\
 ![Screenshot1](https://i.imgur.com/mp7F7My.png)\
