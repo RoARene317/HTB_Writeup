@@ -72,7 +72,7 @@ After executing using hashcat, I finally got the password for m4lwhere.\
 ### Catching the User Flag
 Based on HTB documentation , the flag for user flag is always in /home/{user}/user.txt \
 So I can cd /home and found m4lwhere folder which is the user is m4lwhere. Trying to use the credential that we already dehashed and we successfully logged in.\
-![Screenshot17](https://i.imgur.com/dEHI3VE.png)\
+![Screenshot17](https://i.imgur.com/2VxuaX7.png)\
 after that I Successfullly found the FLAG for user FLAG.\
 ![Screenshot18](https://i.imgur.com/hWOQ9gr.png)
 ## System FLAG
