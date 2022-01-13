@@ -78,7 +78,7 @@ after that I Successfullly found the FLAG for user FLAG.\
 ## System FLAG
 ### Enumeration for Privelenge Escalation
 First of all , I am going to check if there is anything that m4lwhere available to run as sudo by typing sudo -l.\
-![Screenshot19](https://i.imgur.com/iZKHa0e.png)\
+![Screenshot19](https://i.imgur.com/XSefgu1.png)\
 This file is not supposed to be run as root. Let's see what is contain from access_backup.sh\
 ![Screenshot20](https://i.imgur.com/mvGwo8p.png)\
 As I can see, it's executing gzip. This is bad practice as you should not executing based on the process name but based on the file location.\
