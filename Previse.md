@@ -62,7 +62,7 @@ After that I can go to see the table list that available in the database.\
 As you can see there is two tables accounts and files, since we are going to see the acccounts file I am going to execute this command.\
 > SELECT * FROM accounts;
 >
-![Screenshot15](https://i.imgur.com/nGuoOqH.png)
+![Screenshot15](https://i.imgur.com/nGuoOqH.png)\
 We get the credential but it hashed. So I am going to dehashed the password.
 ### Dehashing Credential
 Based on this [CheatSheet Algorithm Hash](https://hashcat.net/wiki/doku.php?id=example_hashes) I am seeing this as MD5 crypt. So by using hashcat, I am going to guess the password.\
