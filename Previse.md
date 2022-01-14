@@ -3,7 +3,7 @@ Previse is one of challenge on HTB that already very long. It also categorized a
 # Enumeration
 First of all I need to scan open ports that Available in the machine Target.\
 In this case I am going to use nmap to scan open targets with the commmands
-> nmap -sV -O -p- <IP Targets> \
+> nmap -sV -O -p- <IP Targets>
 >> -sV = scan services\
 >> -O = Scan OS version\
 >> -p = Scan ports range , when - is entered , the port ranging from 0 to 65500
