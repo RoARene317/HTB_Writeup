@@ -1,4 +1,4 @@
-# Blue
+# HackTheBox : Machine - Blue
 Blue was a machine in HTB, it's also categorized as easy. In the end more than 27K people solve it and based on the charts , most people say that this problem was a piece of cake.
 # How I found this machine
 So this machine I found as already retired machine as I tried one of retired machine due to I tried the VIP in HackTheBox.
