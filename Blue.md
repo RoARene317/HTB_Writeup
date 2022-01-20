@@ -10,7 +10,7 @@ Found something really interesting.
 ![Screenshot1](https://i.imgur.com/dB3sd4f.png)\
 It's looks like the OS is windows and the system is Windows 7+. From the name of the machine, maybe this machine is about EternalBlue?
 # EternalBlue
-If you don't know, EternalBlue is a [BufferOverflow](https://en.wikipedia.org/wiki/Buffer_overflow) exploits that infect [Windows XP](https://en.wikipedia.org/wiki/Windows_XP) up to [Windows 10](https://en.wikipedia.org/wiki/Windows_10) that could lead Remote Code Execution (RCE). It first found by [NSA](https://en.wikipedia.org/wiki/National_Security_Agency) and then leaked by one of group hackers.
+If you don't know, EternalBlue is a [BufferOverflow](https://en.wikipedia.org/wiki/Buffer_overflow) exploits that infect [Windows XP](https://en.wikipedia.org/wiki/Windows_XP) up to [Windows 10](https://en.wikipedia.org/wiki/Windows_10) that could lead Remote Code Execution (RCE). It was first found by [NSA](https://en.wikipedia.org/wiki/National_Security_Agency) and then leaked by one of group hackers.
 # Exploitation
 In this case we are going to use Metasploit module of [EternalBlue](https://www.rapid7.com/db/modules/exploit/windows/smb/ms17_010_eternalblue/) the exploitation process is really simple as shown in the picture below.\
 ![Screenshot2](https://i.imgur.com/kCkz0e9.png)\
