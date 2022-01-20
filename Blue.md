@@ -5,6 +5,7 @@ So this machine I found as already retired machine as I tried one of retired mac
 # Enumeration
 Doing some enumeration by typing
 > nmap -sV -O -p- IP
+> 
 Found something really interesting.
 ![Screenshot1](https://i.imgur.com/dB3sd4f.png)\
 It's looks like the OS is windows and the system is Windows 7+. From the name of the machine, maybe this machine is about EternalBlue?
